@@ -1,0 +1,10 @@
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\obj\Debug\FileFinder.FormFinder.resources
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\obj\Debug\FileFinder.Properties.Resources.resources
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\obj\Debug\FileFinder.csproj.GenerateResource.cache
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\obj\Debug\FileFinder.csproj.CoreCompileInputs.cache
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
+C:\Users\honeynaps\Desktop\김균대_문서\sorce\FileFinder\FileFinder\obj\Debug\FileFinder.csproj.AssemblyReference.cache
